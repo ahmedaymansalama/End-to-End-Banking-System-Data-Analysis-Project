@@ -43,12 +43,12 @@ This project involves end-to-end data analysis for a bank system, covering datab
 Here is a Sample of the Power BI dashboards:
 <table>
   <tr>
-    <td><img src="https://github.com/ahmedaymansalama/YouTube-Trending-Power-BI-Dashboard/blob/main/Screenshot%20(1).png?raw=true" width="400"></td>
-    <td><img src="https://github.com/ahmedaymansalama/YouTube-Trending-Power-BI-Dashboard/blob/main/Screenshot%20(2).png?raw=true" width="400"></td>
+    <td><img src="https://github.com/ahmedaymansalama/End-to-End-Banking-System-Data-Analysis-Project/blob/main/Screenshot%202025-04-03%20164330.jpg?raw=true" width="400"></td>
+    <td><img src="https://github.com/ahmedaymansalama/End-to-End-Banking-System-Data-Analysis-Project/blob/main/Screenshot%202025-04-03%20165558.jpg?raw=true" width="400"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/ahmedaymansalama/YouTube-Trending-Power-BI-Dashboard/blob/main/Screenshot%20(3).png?raw=true" width="400"></td>
-    <td><img src="https://github.com/ahmedaymansalama/YouTube-Trending-Power-BI-Dashboard/blob/main/Screenshot%20(4).png?raw=true" width="400"></td>
+    <td><img src="https://github.com/ahmedaymansalama/End-to-End-Banking-System-Data-Analysis-Project/blob/main/Screenshot%202025-04-03%20165739.jpg?raw=true" width="400"></td>
+    <td><img src="https://github.com/ahmedaymansalama/End-to-End-Banking-System-Data-Analysis-Project/blob/main/Screenshot%202025-04-03%20165806.jpg?raw=true" width="400"></td>
   </tr>
 </table>
 
