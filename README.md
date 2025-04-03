@@ -1,4 +1,4 @@
-# **Bank System Data Analysis Project**
+# **Banking System Data Analysis Project**
 
 ## **Project Overview**
 This project involves end-to-end data analysis for a bank system, covering database design, data integration, and reporting. The goal is to transform raw banking data into structured insights that support decision-making.
@@ -51,9 +51,7 @@ _Add images of SSRS reports here_
 ![Report 1](path/to/report1.png)
 ![Report 2](path/to/report2.png)
 
-### **Full Video Walkthrough**
-_Add a link to a video demo here_
-
-[![Watch the Video](path/to/video_thumbnail.png)](path/to/video_link)
+### **Full Power Bi Dashboards Video**
+https://drive.google.com/file/d/1N9z35BQd5s0XHGMoETuZMLx5dVebSKcT/view?usp=sharing
 
 
