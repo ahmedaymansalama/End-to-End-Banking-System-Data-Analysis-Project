@@ -47,6 +47,9 @@ Here is a Sample of the Power BI dashboards:
   </tr>
 </table>
 
+### Demo Video  
+🎬 Check out the interactive dashboard in Google Drive: https://drive.google.com/file/d/1N9z35BQd5s0XHGMoETuZMLx5dVebSKcT/view?usp=sharing
+
 ### **SSRS Report Previews**
 Here is a Sample of the SSRS Reports:
 <table>
@@ -61,7 +64,6 @@ Here is a Sample of the SSRS Reports:
 </table>
 
 
-### **Full Power Bi Dashboards Video**
-https://drive.google.com/file/d/1N9z35BQd5s0XHGMoETuZMLx5dVebSKcT/view?usp=sharing
+
 
 
