@@ -20,10 +20,10 @@ This project involves end-to-end data analysis for a bank system, covering datab
 - Standardized data formats to ensure consistency in reporting.
 
 ### **4. Reporting & Insights**
-- **Developed interactive Power BI dashboards** to visualize key banking metrics and trends.
-- Designed multiple dashboards to analyze employee performance, customer transactions, and financial metrics.
-- **Created stored procedures** to automate data retrieval for reporting.
-- **Utilized SSRS (SQL Server Reporting Services) to generate structured reports.**
+- Developed interactive Power BI dashboards to visualize key banking metrics and trends.
+- Designed multiple dashboards to analyze Branches, employee performance, customer transactions and Products.
+- Created stored procedures to automate data retrieval for reporting.
+- Utilized SSRS (SQL Server Reporting Services) to generate structured reports.
 
 ## **Technologies Used**
 - **SQL Server** (Database Design, Bulk Insert, Stored Procedures)
