@@ -32,11 +32,6 @@ This project involves end-to-end data analysis for a bank system, covering datab
 - **SSRS** (Report Generation)
 - **Chat GPT** (AI-Data Generation)
 
-## **Project Files**
-- `SQL_Scripts/` → Contains SQL scripts for database schema, stored procedures, and data integration.
-- `Data/` → Includes sample AI-generated CSV files.
-- `PowerBI_Reports/` → Contains `.pbix` files for Power BI dashboards.
-- `SSRS_Reports/` → Includes SSRS reports and related files.
 
 ## **Dashboards & Reports**
 ### **Dashboard Previews**
@@ -53,10 +48,18 @@ Here is a Sample of the Power BI dashboards:
 </table>
 
 ### **SSRS Report Previews**
-_Add images of SSRS reports here_
+Here is a Sample of the SSRS Reports:
+<table>
+  <tr>
+    <td><img src="https://github.com/ahmedaymansalama/End-to-End-Banking-System-Data-Analysis-Project/blob/main/Branch%20SSRS%20.png?raw=true" width="400"></td>
+    <td><img src="https://github.com/ahmedaymansalama/End-to-End-Banking-System-Data-Analysis-Project/blob/main/Client%20SSRS.png?raw=true" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ahmedaymansalama/End-to-End-Banking-System-Data-Analysis-Project/blob/main/Employee%20SSRS.png?raw=true" width="400"></td>
+    <td><img src="https://github.com/ahmedaymansalama/End-to-End-Banking-System-Data-Analysis-Project/blob/main/Employee%20Target%20SSS.png?raw=true" width="400"></td>
+  </tr>
+</table>
 
-![Report 1](path/to/report1.png)
-![Report 2](path/to/report2.png)
 
 ### **Full Power Bi Dashboards Video**
 https://drive.google.com/file/d/1N9z35BQd5s0XHGMoETuZMLx5dVebSKcT/view?usp=sharing
