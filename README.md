@@ -40,10 +40,17 @@ This project involves end-to-end data analysis for a bank system, covering datab
 
 ## **Dashboards & Reports**
 ### **Dashboard Previews**
-_Add images of dashboards here_
-
-![Dashboard 1](path/to/dashboard1.png)
-![Dashboard 2](path/to/dashboard2.png)
+Here is a Sample of the Power BI dashboards:
+<table>
+  <tr>
+    <td><img src="https://github.com/ahmedaymansalama/YouTube-Trending-Power-BI-Dashboard/blob/main/Screenshot%20(1).png?raw=true" width="400"></td>
+    <td><img src="https://github.com/ahmedaymansalama/YouTube-Trending-Power-BI-Dashboard/blob/main/Screenshot%20(2).png?raw=true" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ahmedaymansalama/YouTube-Trending-Power-BI-Dashboard/blob/main/Screenshot%20(3).png?raw=true" width="400"></td>
+    <td><img src="https://github.com/ahmedaymansalama/YouTube-Trending-Power-BI-Dashboard/blob/main/Screenshot%20(4).png?raw=true" width="400"></td>
+  </tr>
+</table>
 
 ### **SSRS Report Previews**
 _Add images of SSRS reports here_
